@@ -4,6 +4,7 @@ set -x
 
 apk add bash
 apk add curl
+apk add tree
 apk add wget
 
 apk add vim
