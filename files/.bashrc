@@ -1,5 +1,5 @@
 
-PS1="alpine:\w # "
+PS1="alpine-docker:\w # "
 HISTSIZE=10000
 HISTFILESIZE=20000
 
