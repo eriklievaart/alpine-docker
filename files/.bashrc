@@ -1,5 +1,5 @@
 
-PS1="felix-docker:\w # "
+PS1="alpine:\w # "
 HISTSIZE=10000
 HISTFILESIZE=20000
 
