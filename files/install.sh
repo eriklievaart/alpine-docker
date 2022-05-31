@@ -7,7 +7,7 @@ apk add curl
 apk add tree
 apk add wget
 
-apk add vim
+apk add vim vim-help
 rm /usr/bin/vi
 ln -s /usr/bin/vim /usr/bin/vi
 
